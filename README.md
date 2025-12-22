@@ -14,10 +14,10 @@ My journey in computer information systems at James Madison University has led m
 |-----------------------------------------------|----------------------------|
 | Nessus vulnerability assessments           | <a href="https://google.com">Vulnerability Assessment Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Vulnerability Assessment Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | Metasploit Lab|
+| Incident Response Planning and Execution      | Metasploit Lab|
+| Case Management with TheHive                  | Metasploit Lab|
+| Scripting and Automation for Threat Mitigation | Metasploit Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -54,4 +54,4 @@ My journey in computer information systems at James Madison University has led m
 
 ## Projects
 - Vulnerability Assessment Lab
-- SOC Automation Project
+- Metasploit Lab 
