@@ -5,15 +5,15 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My journey in computer information systems at James Madison University has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a IT helpdesk. 
+My journey in computer information systems at James Madison University has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a IT helpdesk position
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Nessus vulnerability assessments           | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Nessus vulnerability assessments           | <a href="https://google.com">Vulnerability Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Vulnerability Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -53,5 +53,5 @@ My journey in computer information systems at James Madison University has led m
 </div>
 
 ## Projects
-- Detection Lab
+- Vulnerability Detection Lab
 - SOC Automation Project
