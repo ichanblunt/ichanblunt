@@ -12,8 +12,8 @@ My journey in computer information systems at James Madison University has led m
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Nessus vulnerability assessments           | <a href="https://google.com">Vulnerability Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Vulnerability Detection Lab</a>|
+| Nessus vulnerability assessments           | <a href="https://google.com">Vulnerability Assessment Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Vulnerability Assessment Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -53,5 +53,5 @@ My journey in computer information systems at James Madison University has led m
 </div>
 
 ## Projects
-- Vulnerability Detection Lab
+- Vulnerability Assessment Lab
 - SOC Automation Project
