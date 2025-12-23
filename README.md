@@ -12,7 +12,7 @@ My journey in computer information systems at James Madison University has led m
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Nessus vulnerability assessments           | <a href="https://google.com">Vulnerability Assessment Lab</a>|
+| Nessus vulnerability assessments           | <a href="https://github.com/ichanblunt/Vulnerability-Assessment-Lab-">Vulnerability Assessment Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Vulnerability Assessment Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/ichanblunt/Metasploit-Lab">Metasploit Lab</a>|
 | Incident Response Planning and Execution      | Metasploit Lab|
@@ -43,5 +43,5 @@ My journey in computer information systems at James Madison University has led m
 </div>
 
 ## Projects
-- Vulnerability Assessment Lab
+- <a href="https://github.com/ichanblunt/Vulnerability-Assessment-Lab-">Vulnerability Assessment Lab</a>
 - <a href="https://github.com/ichanblunt/Metasploit-Lab">Metasploit Lab</a> 
