@@ -13,7 +13,7 @@ My journey in computer information systems at James Madison University has led m
 |-----------------------------------------------|----------------------------|
 | Assessing Vulnerabilities         | <a href="https://github.com/ichanblunt/Vulnerability-Assessment-Lab-">Vulnerability Assessment Lab</a>|
 | Keylogging          | <a href="https://github.com/ichanblunt/Metasploit-Lab"> Metasploit Lab</a>|
-| Active Directory  | <a href="https://github.com/ichanblunt/AD-lab"> Metasploit Lab</a>|
+| Active Directory(documents are work in progress)  | <a href="https://github.com/ichanblunt/AD-lab"> Metasploit Lab</a>|
 
 ## Tools
 
