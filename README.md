@@ -30,4 +30,4 @@ Nessus Vulnerability Scanner
 ## Projects
 - <a href="https://github.com/ichanblunt/Vulnerability-Assessment-Lab-">Vulnerability Assessment Lab</a>
 - <a href="https://github.com/ichanblunt/Metasploit-Lab"> Metasploit Lab</a> 
-- <a href="https://github.com/ichanblunt/AD-lab"> AD-Lab</a>
+- <a href="https://github.com/ichanblunt/AD-lab"> AD-Lab (setting up environment)</a>
