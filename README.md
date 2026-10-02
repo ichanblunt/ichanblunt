@@ -27,6 +27,7 @@ Linux
 
 Nessus Vulnerability Scanner
 
+Microsoft 365 Admin Center
 
 ## Projects
 - <a href="https://github.com/ichanblunt/Vulnerability-Assessment-Lab-">Vulnerability Assessment Lab</a>
