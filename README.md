@@ -15,6 +15,7 @@ My journey in computer information systems at James Madison University has led m
 | Keylogging          | <a href="https://github.com/ichanblunt/Metasploit-Lab"> Metasploit Lab</a>|
 | Active Directory (server 2022)  | <a href="https://github.com/ichanblunt/AD-lab"> AD-Lab (setting up environment)</a>|
 | Microsoft 365 Admin Center | <a href="https://github.com/ichanblunt/365-Admin-Center"> 365-Admin-Center</a>|
+| Microsoft User onboarding/transfers/offboarding | <a href="https://github.com/ichanblunt/Onboarding-Moving-Leaving-Runbook"> Microsoft User onboarding/transfers/offboarding</a>| 
 
 ## Tools
 Active Directory
@@ -29,8 +30,11 @@ Nessus Vulnerability Scanner
 
 Microsoft 365 Admin Center
 
+Microsoft Entra ID
+
 ## Projects
 - <a href="https://github.com/ichanblunt/Vulnerability-Assessment-Lab-">Vulnerability Assessment Lab</a>
 - <a href="https://github.com/ichanblunt/Metasploit-Lab"> Metasploit Lab</a> 
 - <a href="https://github.com/ichanblunt/AD-lab"> AD-Lab (setting up environment)</a>
 - <a href="https://github.com/ichanblunt/365-Admin-Center"> 365-Admin-Center</a>
+- <a href="https://github.com/ichanblunt/Onboarding-Moving-Leaving-Runbook"> Microsoft User onboarding/transfers/offboarding</a>| 
