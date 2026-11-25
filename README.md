@@ -37,4 +37,4 @@ Microsoft Entra ID
 - <a href="https://github.com/ichanblunt/Metasploit-Lab"> Metasploit Lab</a> 
 - <a href="https://github.com/ichanblunt/AD-lab"> AD-Lab (setting up environment)</a>
 - <a href="https://github.com/ichanblunt/365-Admin-Center"> 365-Admin-Center</a>
-- <a href="https://github.com/ichanblunt/Onboarding-Moving-Leaving-Runbook"> Microsoft User onboarding/transfers/offboarding</a>| 
+- <a href="https://github.com/ichanblunt/Onboarding-Moving-Leaving-Runbook"> Microsoft User onboarding/transfers/offboarding</a>
